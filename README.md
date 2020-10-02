@@ -1,6 +1,6 @@
 # Data-Visualisation
 
-This repository contains data visualisations.
+This repository contains data visualisations. Visualisations created in Altair can easily be viewed [here](https://lb930.github.io/Data-Science-Blog/)
 
 ## Content
 
